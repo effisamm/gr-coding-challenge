@@ -64,6 +64,6 @@ if __name__ == "__main__":
     parent_current_dir = os.path.dirname(os.path.abspath(os.path.join(child_current_dir, os.pardir)))
 
     file_path = os.path.join(parent_current_dir, "car_rentals_etl_job\\data\\rental_reports.json")
-    output_file_path = os.path.join(parent_current_dir, "car_rentals_etl_job\\data\\rental_reports.txt")
+    output_file_path = os.path.join(parent_current_dir, "car_rentals_etl_job\\data\\rental_reports.csv")
     summaries = extract_transform_json_file(file_path)
     load_summaries_to_csv(output_file_path,summaries)
