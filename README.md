@@ -15,7 +15,7 @@
     d. Click on start to run the pipeline or "Shift + f10"
 ````
 
-# Assumptions
+# Assumptions & Approach
 
 ````
 1. Utilization of ijson over json and Apache Spark
@@ -44,6 +44,7 @@
         the errors, fix the issue with appropriate time and re-run the pipeline with updated
         json file. 
 ````
+
 
 # New possible Features to enhance pipeline
 
