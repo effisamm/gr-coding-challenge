@@ -3,7 +3,7 @@
 ````
 1. From your repo folder, clone the code and checkout to your branch
     a. git clone https://github.com/effisamm/gr-coding-challenge.git
-    b. cd analyze_car_rentals
+    b. cd car_rentals_etl_job
     c. git checkout <branch name>
 ````
 
