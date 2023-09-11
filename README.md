@@ -1,4 +1,4 @@
-# Car Rental Report: User Guide
+# Car Rental Report: User Guide. 
 
 ````
 1. From your repo folder, clone the code and checkout to your branch
@@ -10,8 +10,9 @@
 ````
 2. Install, relevent libraries and run the pipeline
     a. Install IDE prefably PyCharm
-    b. pip install ijson
-    c. Click on start to run the pipeline or "Shift + f10"
+    b. Please note this application uses the python 2.7 version
+    c. pip install ijson
+    d. Click on start to run the pipeline or "Shift + f10"
 ````
 
 # Assumptions
